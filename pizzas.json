@@ -2,13 +2,13 @@
 {
 "name":"Veggie Supreme",
 "description":"Onion, Capsicum, Mushroom, Red Paprika, Black Olives, Sweet Corn",
-"img":"OrderPizza/1.png",
+"img":"1.png",
 "price":99  
 },
 {
 "name":"Veg Exotica",
 "description":"Red Capsicum, Green Capsicum, Baby Corn, Black Olives, Jalapeno",
-"img":"2.jpg",
+"img":"2.png",
 "price":99  
 },
 {
@@ -20,19 +20,19 @@
 {
 "name":"Tandoori Paneer",
 "description":"Paneer, Onion, Capsicum, Red Paprika & Tomato",
-"img":"images/1.jpg",
+"img":"4.png",
 "price":99  
 },
 {
 "name":"Chicken Sausage N Tikka",
 "description":"Cheesy Chicken Sausage, Chicken Tikka, Capsicum, Jalapeno, Red Paprika",
-"img":"images/1.jpg",
+"img":"5.png",
 "price":99  
 },
 {
 "name":"Paneer",
 "description":"Spiced Paneer, Onion, Tomato, Sweet Corn",
-"img":"images/1.jpg",
+"img":"6.png",
 "price":99  
 }   
 ]
