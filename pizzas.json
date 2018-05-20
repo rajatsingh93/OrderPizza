@@ -1,20 +1,38 @@
 [
 {
-"name":"Exotic",
-"description":"One of the best",
+"name":"Veggie Supreme",
+"description":"Onion, Capsicum, Mushroom, Red Paprika, Black Olives, Sweet Corn",
 "img":"images/1.jpg",
 "price":99  
 },
 {
-"name":"Exotic",
-"description":"One of the best",
+"name":"Veg Exotica",
+"description":"Red Capsicum, Green Capsicum, Baby Corn, Black Olives, Jalapeno",
 "img":"images/1.jpg",
 "price":99  
 },
 {
-"name":"Exotic",
-"description":"One of the best",
+"name":"Chicken Supreme",
+"description":"Aromatic Lebanese Chicken, Schezwan Chicken Meatball, Chicken Tikka",
 "img":"images/1.jpg",
 "price":99  
-} 
+},
+{
+"name":"Tandoori Paneer",
+"description":"Paneer, Onion, Capsicum, Red Paprika & Tomato",
+"img":"images/1.jpg",
+"price":99  
+},
+{
+"name":"Chicken Sausage N Tikka",
+"description":"Cheesy Chicken Sausage, Chicken Tikka, Capsicum, Jalapeno, Red Paprika",
+"img":"images/1.jpg",
+"price":99  
+},
+{
+"name":"Paneer",
+"description":"Spiced Paneer, Onion, Tomato, Sweet Corn",
+"img":"images/1.jpg",
+"price":99  
+}   
 ]
