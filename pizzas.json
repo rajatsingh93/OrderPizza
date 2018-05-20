@@ -1,17 +1,17 @@
 [
-{
+var a={
 name:"Exotic",
 description:"One of the best",
 img:"images/1.jpg",
 price:99  
 },
-{
+var b={
 name:"Exotic",
 description:"One of the best",
 img:"images/1.jpg",
 price:99  
 },
-{
+var c={
 name:"Exotic",
 description:"One of the best",
 img:"images/1.jpg",
