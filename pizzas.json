@@ -1,4 +1,20 @@
+[
 {
-veg:'Crispy'
-price:899
-}
+name:Exotic,
+description:"One of the best",
+img:"images/1.jpg",
+price:99  
+},
+{
+name:Exotic,
+description:"One of the best",
+img:"images/1.jpg",
+price:99  
+},
+{
+name:Exotic,
+description:"One of the best",
+img:"images/1.jpg",
+price:99  
+}  
+]
