@@ -2,19 +2,19 @@
 {
 "name":"Veggie Supreme",
 "description":"Onion, Capsicum, Mushroom, Red Paprika, Black Olives, Sweet Corn",
-"img":"http://www.hammockpizza.co/image/cache/pizza/vaggie-pizza-800x800.png",
+"img":"1.png",
 "price":99  
 },
 {
 "name":"Veg Exotica",
 "description":"Red Capsicum, Green Capsicum, Baby Corn, Black Olives, Jalapeno",
-"img":"images/1.jpg",
+"img":"2.jpg",
 "price":99  
 },
 {
 "name":"Chicken Supreme",
 "description":"Aromatic Lebanese Chicken, Schezwan Chicken Meatball, Chicken Tikka",
-"img":"images/1.jpg",
+"img":"3.png",
 "price":99  
 },
 {
