@@ -1,17 +1,17 @@
 [
-var a={
+{
 name:"Exotic",
 description:"One of the best",
 img:"images/1.jpg",
 price:99  
 },
-var b={
+{
 name:"Exotica",
 description:"One of the best friend",
 img:"images/2.jpg",
 price:299  
 },
-var c={
+{
 name:"Exoticx",
 description:"One of the best buddy",
 img:"images/3.jpg",
